@@ -1,0 +1,6 @@
+{
+  "name": "DROPE — Intelligent Data Search & Validation",
+  "description": "Plataforma SaaS de inteligência de dados e validação de informações unificada, segura e em conformidade regulatória.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
